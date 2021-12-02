@@ -1,2 +1,2 @@
-# datascience
+# DataScience
 Sandbox for data science projects
